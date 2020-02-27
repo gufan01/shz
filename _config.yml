@@ -11,9 +11,9 @@ title                    : "SHZ"
 title_separator          : "-"
 name                     : &name "SHZ"
 description              : &description "Mineral deposit, geochemical, thermodynamic modelling, fluid inclusion"
-url                      : https://gufan01.github.io/shz/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gufan01.github.io/shz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://gufan01.github.io/shz/"
+repository               : "https://gufan01.github.io/shz"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "SHZ"
   avatar           : "profile.png"
-  bio              : "Assistant REsearcher<br>Earth Sciences<br>ECUT<br><br>shaohaozou at ecut.deu.cn"
+  bio              : "Assistant Researcher<br>Earth Sciences<br>ECUT<br><br>shaohaozou at ecut.deu.cn"
   location         : "Nanchang, China"
   employer         :
   pubmed           : 
