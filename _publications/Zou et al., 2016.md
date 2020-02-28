@@ -1,0 +1,18 @@
+---
+title: "Provenance and depositional setting of Lower Silurian siliciclastic rocks on Hainan Island, South China: Implications for a passive margin environment of South China in Gondwana"
+collection: publications
+permalink: /publication/Zou et al., 2016
+excerpt: 'The detrital zircon U-Pb age populations with peaks mainly at ca. 1635 Ma indicate that the source rocks are dominated by the Paleo- to Mesoproterozoic Baoban Group and ca. 1430 Ma granitoids on Hainan Island. Linked to the early Paleozoic tectonic development of South China, the Lower Silurian siliciclastic rocks on Hainan Island can be interpreted as depositing in a passive continent margin'
+date: 2016-04-11
+venue: 'Journal of Asian Earth Sciences'
+paperurl: 'https://doi:10.1016/j.jseaes.2016.04.011'
+authors: 'C. Zou, S., Wu, C., Xu, D., Shan, Q., Zhang, X., Hollings, P., Hou, M.'
+citation: 'Zou, S., Wu, C., Xu, D., Shan, Q., Zhang, X., Hollings, P., Hou, M. (2016). Provenance and depositional setting of Lower Silurian siliciclastic rocks on Hainan Island, South China: Implications for a passive margin environment of South China in Gondwana, <i>Journal of Asian Earth Sciences</i>. 1(1), 243-262.'
+---
+Journal of Asian Earth Sciences, 2016:[Download paper here](doi:10.1016/j.jseaes.2016.04.011)
+
+>Abstract: <br/>Diverse models have been proposed for interpreting the early Paleozoic tectonic setting of the Cathaysia Block in South China. However, few of them undertook a comprehensive study of clastic sedimentary rocks in the Cathaysia Block. This study reports the petrography and sedimentary facies, the whole-rock geochemistry and Sm-Nd isotopic data, and the LA-ICP-MS U-Pb ages of detrital zircon from the Lower Silurian meta-siliciclastics on Hainan Island in order to constrain the early Paleozoic tectonic setting. The source rocks for the Lower Silurian meta-siliciclastics have suffered moderate to intense weathering, indicated by the weathering indices, like Chemical Index of Alteration (CIA), Plagioclase Index of Alteration (PIA) and Weathering Index (W index). The Lower Silurian rocks have high Th/Sc (generally between 1.1 and 2.0) and Th/U (generally between 4 and 6) ratios, LREE-enriched REE patterns with negative Eu anomalies (avg. 0.55), and low εNd(t) values (-16.2 to -8.5), suggesting a continental margin basin receiving detritus mostly derived from a recycled-orogen or cratonic provenance. This Early Silurian turbiditic succession with rhythmic flysch and incomplete Bouma sequences also reveals a neritic to abyssal facies, continental shelf to continental slope depositional setting. The geochemical features like the pattern of REEs, the ratios of trace elements (e.g., Th/Sc, Th/Co, La/Sc, Cr/Th, La/Th), and the binary plots and ternary diagrams (e.g., A-CN-K and FMW diagram), demonstrate that the source-areas are dominated by felsic rocks. Together with the two-stage Nd depleted mantle model age (TDM-2) (ca. 2.3 Ga), the detrital zircon U-Pb age populations with peaks mainly at ca. 1635 Ma confirm that the source rocks are dominated by the Paleo- to Mesoproterozoic Baoban Group and ca. 1430 Ma granitoids on Hainan Island. Linked to the early Paleozoic tectonic development of South China, the Lower Silurian siliciclastic rocks on Hainan Island can be interpreted as depositing in a passive continent margin.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Zou, S., Wu, C., Xu, D., Shan, Q., Zhang, X., Hollings, P., and Hou, M., (2016). "Provenance and depositional setting of Lower Silurian siliciclastic rocks on Hainan Island, South China: Implications for a passive margin environment of South China in Gondwana." <i>Journal of Asian Earth Sciences</i>. 123:243–262.
