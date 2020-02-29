@@ -1,0 +1,12 @@
+---
+title: "Geochemical and Nd isotopic constraints on provenance and depositional setting of the Shihuiding Formation in the Shilu Fe–Co–Cu ore district, Hainan Province, South China"
+collection: publications
+permalink: /publication/1/15/2016-Yu, et al., 2016
+date: 1/15/2016
+venue: 'Journal of Asian Earth Sciences'
+paperurl: 'doi:10.1016/j.jseaes.2016.01.015'
+citation: 'Yu, L., Zou, S., Cai, J., Xu, D., Zou, F., Wang, Z., Wu, C., Liu, M., 2016. Geochemical and Nd isotopic constraints on provenance and depositional setting of the Shihuiding Formation in the Shilu Fe–Co–Cu ore district, Hainan Province, South China. Journal of Asian Earth Sciences 119, 100–117. '
+---
+[Download paper here](doi:10.1016/j.jseaes.2016.01.015)
+
+Recommended citation: Yu, L., Zou, S., Cai, J., Xu, D., Zou, F., Wang, Z., Wu, C., Liu, M., 2016. Geochemical and Nd isotopic constraints on provenance and depositional setting of the Shihuiding Formation in the Shilu Fe–Co–Cu ore district, Hainan Province, South China. Journal of Asian Earth Sciences 119, 100–117. 
