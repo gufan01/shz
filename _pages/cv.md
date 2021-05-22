@@ -18,7 +18,7 @@ Work experience
 ===============
 
 * **Summer 2019** - present: Research Assistant
-  * *East China University of Technology*
+  * East China University of Technology
 
 Skills
 ======
