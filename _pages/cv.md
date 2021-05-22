@@ -18,10 +18,8 @@ Work experience
 ===============
 
 * Summer 2019 - present: Research Assistant
-
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * East China University of Technology
+*
 
 Skills
 ======
