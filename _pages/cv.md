@@ -12,14 +12,13 @@ Education
 =========
 
 * B.S. in Univeristy of South China, Hunan, China, 2010-2014.
-* Ph.D in University of Chinese Academy of Sciences (Guangzhou Insititute of Geochemistry), Guangzhou, China, 2014-2019
+* Ph.D in University of Chinese Academy of Sciences (Guangzhou Insititute of Geochemistry), Guangzhou, China, 2014-2019.
 
 Work experience
 ===============
 
-* Summer 2019 - present: Research Assistant
+* **Summer 2019** - present: Research Assistant
   * East China University of Technology
-*
 
 Skills
 ======
