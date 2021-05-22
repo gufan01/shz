@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SHZ"
+title                    : "Shaohao Zou"
 title_separator          : "-"
 name                     : &name "Shaohao Zou"
 description              : &description "Mineral deposit, geochemical, thermodynamic modelling, fluid inclusion"
