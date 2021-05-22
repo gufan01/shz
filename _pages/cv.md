@@ -11,8 +11,8 @@ redirect_from:
 Education
 =========
 
-* B.S. in Univeristy of South China, Hunan, China, 2010-2014.
-* Ph.D in University of Chinese Academy of Sciences (Guangzhou Insititute of Geochemistry), Guangzhou, China, 2014-2019.
+* B.S. in Univeristy of South China, Hunan, China, **2010-2014**.
+* Ph.D in University of Chinese Academy of Sciences (Guangzhou Insititute of Geochemistry), Guangzhou, China, **2014-2019**.
 
 Work experience
 ===============
