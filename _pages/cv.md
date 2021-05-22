@@ -17,7 +17,7 @@ Education
 Work experience
 ===============
 
-* Summer 2015: Research Assistant
+* Summer 2019 - present: Research Assistant
 
   * Github University
   * Duties included: Tagging issues
